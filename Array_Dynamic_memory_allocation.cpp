@@ -25,7 +25,7 @@ int main() {
     }
     
     // Display the elements of the array
-    cout << "The array elements are: ";
+    cout << "something else is now happeneing here";
     for (int i = 0; i < size; ++i) {
         cout << arr[i] << " ";
     }
@@ -39,5 +39,6 @@ int main() {
         cout << arr[i] << " ";
     }
     cout << endl;
+    cout << "somthing new is happening" << endl;
     return 0;
 }
